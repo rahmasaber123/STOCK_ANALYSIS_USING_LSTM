@@ -53,6 +53,10 @@ The model is built using a stacked LSTM architecture:
 ```bash
 Input → LSTM → Dropout → LSTM → Dropout → LSTM → Dropout → LSTM → Dense
 ```
+## Prediction vs Actual Results
+
+<img src="https://github.com/rahmasaber123/STOCK_ANALYSIS_USING_LSTM/blob/main/download%20(7).png?raw=true" width="700"/>
+
 ## How to Run
 1. Clone the repository  
 2. Install dependencies:
